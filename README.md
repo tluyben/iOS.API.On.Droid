@@ -19,6 +19,8 @@ A subset of the iOS API was implemented only; not only because that API is huge;
 
 I'm not continuing this project. If someone is interested, just drop me a note. 
 
+I relased it because I myself find it annoying when companies or projects stop, the code usually just disappears. Maybe someone can use something and if not, then it'll just 'be'. 
+
 # Documentation
 
 I do not know what needs to be changed for newer versions of iOS; for older versions of iOS however, all that is required should be adding the MainActivity to the Activity classes and recompile. 

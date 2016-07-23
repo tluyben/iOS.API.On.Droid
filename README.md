@@ -30,3 +30,7 @@ If any questions, just ask; I was will try to help out.
 # License
 
 MIT License (matching open source Xamarin)
+
+# Changes
+
+- 23/7 - Just found a simple project for a charity that still works with it and did run for at least 2 years production; I will clean it up and remove (c) assets and add it as a demo
